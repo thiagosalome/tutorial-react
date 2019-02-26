@@ -17,7 +17,7 @@ const TableBody = props => {
         <tr key={index}>
           <td>{item.name}</td>
           <td>{item.job}</td>
-          <td><button onClick={() => props.removeCharacter(index)}>Delete</button></td>
+          <td><button className="btn btn-success" onClick={() => props.removeCharacter(index)}>Delete</button></td>
         </tr>
       )
     });
@@ -30,7 +30,7 @@ class Table extends Component {
         const {characterData, removeCharacter} = this.props;
 
         return (
-            <table>
+            <table className="table">
                <TableHeader />
                <TableBody 
                 characterData={characterData}
