@@ -2,7 +2,7 @@
   "name": "tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/thiagosalome/tutorial-react/build",
+  "homepage": "https://github.com/thiagosalome/tutorial-react/",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
