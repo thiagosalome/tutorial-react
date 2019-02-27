@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.7ae496c6.chunk.css",
-  "main.js": "/static/js/main.5a39a0be.chunk.js",
-  "main.js.map": "/static/js/main.5a39a0be.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.14bf863f.chunk.js": "/static/js/2.14bf863f.chunk.js",
-  "static/js/2.14bf863f.chunk.js.map": "/static/js/2.14bf863f.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.40521f6ddc2099ff04e81cb4e60c8b84.js": "/precache-manifest.40521f6ddc2099ff04e81cb4e60c8b84.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.7ae496c6.chunk.css.map": "/static/css/main.7ae496c6.chunk.css.map"
+  "main.css": "/thiagosalome/tutorial-react/static/css/main.7ae496c6.chunk.css",
+  "main.js": "/thiagosalome/tutorial-react/static/js/main.5a39a0be.chunk.js",
+  "main.js.map": "/thiagosalome/tutorial-react/static/js/main.5a39a0be.chunk.js.map",
+  "runtime~main.js": "/thiagosalome/tutorial-react/static/js/runtime~main.743aafe1.js",
+  "runtime~main.js.map": "/thiagosalome/tutorial-react/static/js/runtime~main.743aafe1.js.map",
+  "static/js/2.14bf863f.chunk.js": "/thiagosalome/tutorial-react/static/js/2.14bf863f.chunk.js",
+  "static/js/2.14bf863f.chunk.js.map": "/thiagosalome/tutorial-react/static/js/2.14bf863f.chunk.js.map",
+  "index.html": "/thiagosalome/tutorial-react/index.html",
+  "precache-manifest.d6276812deaffe8e8e90e3ed4dca1082.js": "/thiagosalome/tutorial-react/precache-manifest.d6276812deaffe8e8e90e3ed4dca1082.js",
+  "service-worker.js": "/thiagosalome/tutorial-react/service-worker.js",
+  "static/css/main.7ae496c6.chunk.css.map": "/thiagosalome/tutorial-react/static/css/main.7ae496c6.chunk.css.map"
 }
