@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thiagosalome/tutorial-react/build/precache-manifest.fa136e183aa1189e81caed1a40407609.js"
+  "/thiagosalome/tutorial-react/precache-manifest.b70880848fc5dc925b992625ac2dd357.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/thiagosalome/tutorial-react/build/index.html", {
+workbox.routing.registerNavigationRoute("/thiagosalome/tutorial-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
