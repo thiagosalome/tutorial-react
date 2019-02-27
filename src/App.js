@@ -36,10 +36,19 @@ class App extends Component {
 						characterData={characters}
 						removeCharacter={this.removeCharacter}
 						/>
-					<Form></Form>
+					<Form handleSubmit={this.handleSubmit}></Form>
 			</div>
 		);
 	}
+
+	handleSubmit = character => {
+    this.setState({
+      characters : [
+        ...this.state.characters,
+        character
+      ]
+    })
+  }
 	
 	removeCharacter = index => {
 		const {characters} = this.state;
